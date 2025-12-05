@@ -1,7 +1,7 @@
-id = "zed-theme"
-name = "dara's zed theme"
+id = "aurbis"
+name = "Aurbis Theme"
 version = "0.0.1"
 schema_version = 1
+description = "A theme for Zed"
 authors = ["Aymane Hlamnach <dara-@outlook.jp>"]
-description = "a personal zed theme"
-repository = "https://github.com/azuradara/zed-theme"
+repository = "https://github.com/azuradara/aurbis-zed-theme"
