@@ -1,7 +1,7 @@
 id = "zed-theme"
-name = "Dara's zed theme"
+name = "dara's zed theme"
 version = "0.0.1"
 schema_version = 1
 authors = ["Aymane Hlamnach <dara-@outlook.jp>"]
-description = "A personal zed theme"
+description = "a personal zed theme"
 repository = "https://github.com/azuradara/zed-theme"
